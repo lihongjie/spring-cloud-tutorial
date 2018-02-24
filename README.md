@@ -1,10 +1,18 @@
 # spring-cloud-tutorial
 
-# Spring Boot
+### Spring Boot
 [spring boot samples](https://github.com/netgloo/spring-boot-samples)
+- [spring-boot-sample](https://github.com/zhonglinlin1305/spring-boot-sample)
+Spring-boot 集成druid数据库连接池，Spring-boot实现druid的动态数据源，Spring-boot实现定时任务schedule，spring-boot集成mybatis
 
-# [Spring Cloud 官网](http://projects.spring.io/spring-cloud/ "Spring Cloud")
+
+
+
+[Spring Cloud 官网](http://projects.spring.io/spring-cloud/ "Spring Cloud")
+
 [Spring Cloud 中文网](https://springcloud.cc/)
+
+[Spring Cloud Learning 重要的学习代码](https://github.com/forezp/SpringCloudLearning)
 
 [spring cloud tutorial - Bootstrapping the Spring Cloud Application](http://www.baeldung.com/spring-cloud-bootstrapping)
 
@@ -24,5 +32,6 @@
 
 [spring cloud in action - spring cloud in action](https://github.com/nobodyiam/spring-cloud-in-action)
 
+[spring cloud config 官网的QUICK START](https://cloud.spring.io/spring-cloud-config/#quick-start)
 
-
+[Centralized Configuration 官网的QUICK START](https://spring.io/guides/gs/centralized-configuration/)
