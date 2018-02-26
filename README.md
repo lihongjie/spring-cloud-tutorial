@@ -32,11 +32,10 @@ Spring-boot 集成druid数据库连接池，Spring-boot实现druid的动态数�
 
 [spring cloud in action - spring cloud in action](https://github.com/nobodyiam/spring-cloud-in-action)
 
-<<<<<<< HEAD
-[spring cloud最佳实践项目实例 重要](https://github.com/lrwinx/shop)
-
-=======
 [spring cloud config 官网的QUICK START](https://cloud.spring.io/spring-cloud-config/#quick-start)
 
 [Centralized Configuration 官网的QUICK START](https://spring.io/guides/gs/centralized-configuration/)
->>>>>>> 81152f22230b735168fd1ab2dc41aadf42636a38
+
+[spring cloud最佳实践项目实例 重要](https://github.com/lrwinx/shop)
+
+[Spring Cloud中国社区线下沙龙文档](https://github.com/SpringCloud/spring-cloud-document)
