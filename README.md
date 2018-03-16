@@ -4,7 +4,7 @@
 [spring boot samples](https://github.com/netgloo/spring-boot-samples)
 - [spring-boot-sample](https://github.com/zhonglinlin1305/spring-boot-sample)
 Spring-boot 集成druid数据库连接池，Spring-boot实现druid的动态数据源，Spring-boot实现定时任务schedule，spring-boot集成mybatis
-
+[spring boot 实践学习案例](https://github.com/JeffLi1993/springboot-learning-example)
 
 
 
