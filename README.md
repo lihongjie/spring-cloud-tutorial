@@ -40,4 +40,7 @@ Spring-boot 集成druid数据库连接池，Spring-boot实现druid的动态数�
 - [spring cloud最佳实践项目实例 重要](https://github.com/lrwinx/shop)
 
 - [Spring Cloud中国社区线下沙龙文档](https://github.com/SpringCloud/spring-cloud-document)
+
 - [spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc)
+
+- [spring-cloud-microservice-study](https://github.com/shunyang/spring-cloud-microservice-study)
