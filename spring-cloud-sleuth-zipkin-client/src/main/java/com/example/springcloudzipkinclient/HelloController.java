@@ -18,10 +18,11 @@ public class HelloController {
         return new RestTemplate();
     }
 
-    @RequestMapping("/hello")
+    @RequestMapping("/home")
     public String callHome(){
 
-        return "Hello World";
+        String result= this.restTemplate.getForObject("http://localhost:11010/hello/", String.class);
+        return result;
     }
 
     @Bean
