@@ -12,11 +12,11 @@
 	<modules>
         <module>spring-boot-admin-demo</module>
         <module>spring-boot-admin-client1</module>
+        <module>spring-boot-admin-2.x-server</module>
         <module>spring-boot-first</module>
         <module>spring-boot-first-demo</module>
         <module>spring-boot-security-rest-jpa-hibernate-mysql-crud-example</module>
 		<module>spring-cloud-config-quick-start</module>
-
 	</modules>
 
 </project>
