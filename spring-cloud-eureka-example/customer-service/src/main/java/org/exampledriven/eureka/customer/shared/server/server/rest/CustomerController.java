@@ -24,6 +24,7 @@ public class CustomerController implements CustomerService {
         customers.add(new Customer(2, "Peter", "Test2"));
     }
 
+    @Override
     public Customer getCustomer(@PathVariable int id) {
 
         logger.debug("reading customer with id " + id);
