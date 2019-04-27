@@ -3,8 +3,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.exampledriven</groupId>
-    <artifactId>spring-cloud-zuul-example-aggregator</artifactId>
+    <groupId>com.github.springcloud.zuul</groupId>
+    <artifactId>spring-cloud-zuul-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring cloud zuul example aggregator</name>
@@ -13,6 +13,8 @@
         <module>zuul-server</module>
         <module>eureka-server</module>
         <module>customer-service</module>
+        <module>sample-zuul-filters</module>
+        <module>zuul-demo</module>
     </modules>
 
 </project>

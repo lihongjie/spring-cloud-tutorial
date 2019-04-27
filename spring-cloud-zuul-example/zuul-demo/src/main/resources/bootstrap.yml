@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: zuul-demo
+
+server:
+  port: 5560
+  undertow:
+    worker-threads: 500
+    io-threads: 200
+
+zuul:
+  SendErrorFilter:
+    error:
+      disable: true
+  host:
+    max-per-route-connections: 1024
+    max-total-connections: 1024
+feign:
+  httpclient:
+    enabled: false
+  okhttp:
+    enabled: true

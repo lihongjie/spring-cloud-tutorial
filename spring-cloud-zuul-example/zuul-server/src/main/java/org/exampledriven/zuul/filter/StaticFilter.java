@@ -3,14 +3,10 @@ package org.exampledriven.zuul.filter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.filters.StaticResponseFilter;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Component;
 
 import java.io.*;
-import java.net.URISyntaxException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
